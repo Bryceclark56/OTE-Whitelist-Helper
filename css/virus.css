@@ -1,0 +1,19 @@
+[data-otewh-appstatus="pending"] {
+    background-color: rgba(32, 32, 32, 0.75);
+}
+
+[data-otewh-appstatus="approved"] {
+    background-color: rgba(0, 88, 30, 0.75);
+}
+
+[data-otewh-appstatus="declined"] {
+    background-color: rgba(153, 0, 0, 0.75);
+}
+
+[data-otewh-appstatus="closed"] {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+[data-otewh-appstatus="application"] {
+    background-color: rgba(204, 204, 0, 0.75);
+}
